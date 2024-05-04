@@ -1,4 +1,10 @@
 # Chicken-Disease-classification
+### Problem statment:
+## Objective: 
+The primary goal is to develop a model that can accurately classify chicken fecal samples as either indicative of disease or healthy.
+## Data Collection: 
+Collect fecal samples from chickens, ensuring a diverse set that includes both healthy samples and samples from chickens affected by various diseases.
+
 ## Workflows
 
 1. Update config.yaml
@@ -23,7 +29,7 @@ https://github.com/NimraAslamkhan/Chicken-Disease-classification.git
 ### STEP 01- Create a conda environment after opening the repository
 
 ```bash
-conda create -n cnncls python=3.8 -y
+conda create -n cnncls python=3.12.1 -y
 ```
 
 ```bash
